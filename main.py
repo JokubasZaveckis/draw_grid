@@ -1,3 +1,4 @@
+# Review by Ignas Zaveckis
 def draw_grid():
     for col in range(COLS):
         for row in range(ROWS):
